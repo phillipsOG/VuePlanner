@@ -14,5 +14,5 @@ vue create docker-vuejs
 npm run serve
 ```
 
-> ### Customise Vue CLI Configuration
-> See [Config. Documentation](https://cli.vuejs.org/config/)
+### Customise Vue CLI Configuration
+See [Config. Documentation](https://cli.vuejs.org/config/)
