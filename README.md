@@ -15,7 +15,7 @@
 ### Setting Up & Running Docker
 ```
 4. docker build -t <docker_name>/docker-vuesjs .
-5. docker run -it -p 8081:8080 -d --name docker-vuejs <docker_name>/docker-vuejs
+5. docker run -it -p 8080:80 -d --name docker-vuejs <docker_name>/docker-vuejs-nginx
 ```
 ### Customise Vue CLI Configuration
 See [Config. Documentation](https://cli.vuejs.org/config/)
