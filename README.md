@@ -2,24 +2,17 @@
 # A simple planner with basic CRUD functionality, written with Vue.js, using Nginx & Docker.
 
 ## Project setup
+
+### Install
 ```
-npm install
+npm install -g @vue/cli
+vue create docker-vuejs
 ```
 
-### Compiles and hot-reloads for development
+### Hot-Reloading
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customise configuration
-See [Configuration Reference](https://cli.vuejs.org/config/)
+> ### Customise Vue CLI Configuration
+> See [Config. Documentation](https://cli.vuejs.org/config/)
