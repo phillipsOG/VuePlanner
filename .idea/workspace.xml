@@ -3,19 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e77086f0-2b10-4cd7-9ada-196b5fde129c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-vuejs/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
