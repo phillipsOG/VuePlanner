@@ -1,4 +1,5 @@
 [![Docker Image CI](https://github.com/phillipsOG/VuePlanner/actions/workflows/docker-image.yml/badge.svg)](https://github.com/phillipsOG/VuePlanner/actions/workflows/docker-image.yml)
+[![Node.js CI](https://github.com/phillipsOG/VuePlanner/actions/workflows/node.js.yml/badge.svg)](https://github.com/phillipsOG/VuePlanner/actions/workflows/node.js.yml)
 # VuePlanner
 # A simple planner with basic CRUD functionality, written with Vue.js, using Nginx & Docker.
 ## Project setup
