@@ -5,13 +5,12 @@
 
 ### Install
 ```
-npm install -g @vue/cli
-vue create docker-vuejs
+1. npm install -g @vue/cli
+2. vue create docker-vuejs
 ```
-
-### Hot-Reloading
+### Running Compiler / Hot-Reloading
 ```
-npm run serve
+3. npm run serve
 ```
 
 ### Customise Vue CLI Configuration
