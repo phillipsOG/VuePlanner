@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "test": "node /node_modules/vue-scripts/test.js",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "test": "node node_modules/vue-scripts/test.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
