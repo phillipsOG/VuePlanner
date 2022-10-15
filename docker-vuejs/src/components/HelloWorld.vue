@@ -7,7 +7,7 @@
         <span style="color:#AD5353">]nventory</span>
       </h1>
       <p>
-        Welcome! This is a Simple
+        Welcome! This is a Simple hotreloadtest
         <span class="bg-info">Vue JS</span> Page, running on
         <span class="bg-success">Docker Container</span>
       </p>
